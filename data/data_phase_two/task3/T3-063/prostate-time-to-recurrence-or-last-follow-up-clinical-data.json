@@ -1,0 +1,9 @@
+{
+  "radiology_report": "Prostate volume: 31.91 cc. PSA density: 0.783 ng/mL/cc. PI-RADS: 5.",
+  "pathology_report": "The patient underwent one biopsy session. At biopsy, Gleason 4+4 (ISUP grade group 4) was identified in the left peripheral zone (mid); no cribriform pattern or intraductal carcinoma were identified. The reported histological growth pattern was: Fusing to abortive glandular tubules.",
+  "surgical_pathology_report": "The robot-assisted radical prostatectomy specimen showed Gleason 4+3 (ISUP grade group 3), pathological stage pT3a. Extraprostatic extension was present; surgical margins were positive; the seminal vesicles were not invaded; lymphovascular invasion was absent; there was no lymph node metastasis.",
+  "previous_notes": "The patient is not on 5-ARI medication.",
+  "family_history": "There is no family history of prostate or breast cancer.",
+  "cspca": 0.918368,
+  "AI_predicted_isup_grade_group": 5
+}

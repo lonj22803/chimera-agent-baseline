@@ -1,0 +1,9 @@
+{
+  "radiology_report": "Prostate volume: 58.83 cc. PSA density: 1.156 ng/mL/cc. PI-RADS: 5.",
+  "pathology_report": "The patient underwent one biopsy session. At biopsy, Gleason 4+3 (ISUP grade group 3) was identified in the right side; perineural invasion was present, with no cribriform pattern or intraductal carcinoma. The reported histological growth pattern was: Acinar adenocarcinoma.",
+  "surgical_pathology_report": "The robot-assisted radical prostatectomy specimen showed Gleason 4+5 with tertiary pattern 3 (ISUP grade group 5), pathological stage pT3b. Extraprostatic extension was present; surgical margins were positive; the seminal vesicles were invaded; lymphovascular invasion was present; lymph node metastasis was present.",
+  "previous_notes": "The patient is not on 5-ARI medication. Relevant comorbidities include Inguinal hernial repair.",
+  "family_history": "There is no family history of prostate or breast cancer.",
+  "cspca": 0.8985173,
+  "AI_predicted_isup_grade_group": 5
+}
