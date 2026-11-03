@@ -1,9 +1,0 @@
-{
-  "radiology_report": "Prostate volume: 47.17 cc. PSA density: 0.165 ng/mL/cc. PI-RADS: 4.",
-  "pathology_report": "The patient underwent one biopsy session. At biopsy, Gleason 4+3 with tertiary pattern 5 (ISUP grade group 2) was identified.",
-  "surgical_pathology_report": "The robot-assisted radical prostatectomy specimen showed Gleason 4+3 with tertiary pattern 5 (ISUP grade group 3), pathological stage pT2a. There was no extraprostatic extension; surgical margins were positive; the seminal vesicles were not invaded; lymphovascular invasion was absent; there was no lymph node metastasis.",
-  "previous_notes": null,
-  "family_history": null,
-  "cspca": 0.75055045,
-  "AI_predicted_isup_grade_group": null
-}

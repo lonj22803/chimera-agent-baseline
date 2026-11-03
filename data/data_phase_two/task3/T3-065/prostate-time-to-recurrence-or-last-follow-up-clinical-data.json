@@ -1,9 +1,0 @@
-{
-  "radiology_report": "Prostate volume: 41.58 cc. PSA density: 0.281 ng/mL/cc. PI-RADS: 4.",
-  "pathology_report": "The patient underwent 2 biopsy sessions. At the first session, Gleason 3+3 (ISUP grade group 1) was identified; cribriform pattern was present, with no intraductal carcinoma or perineural invasion. 42.9 months later, at the second session, Gleason 3+3 (ISUP grade group 1) was identified in the right peripheral zone (mid); perineural invasion was present, with no cribriform pattern. The reported histological growth pattern was: Organoid arranged glandular tubules; Tubules.",
-  "surgical_pathology_report": "The robot-assisted radical prostatectomy specimen showed Gleason 3+3 with tertiary pattern 4 (ISUP grade group 1), pathological stage pT3a. Extraprostatic extension was present; surgical margins were negative; the seminal vesicles were not invaded; lymphovascular invasion was absent; no lymph nodes were removed.",
-  "previous_notes": "The patient is not on 5-ARI medication.",
-  "family_history": "Family history of prostate or breast cancer is unknown.",
-  "cspca": 0.6642831,
-  "AI_predicted_isup_grade_group": 3
-}
